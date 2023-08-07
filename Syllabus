@@ -1,0 +1,11 @@
+Unit I Text Data Analytics 				
+Text Mining: Text Pre-Processing, Shallow Parsing, Stop words, Stemming and Lemmatizing and Word Cloud. Sentiment Analysis: Textblob, nrc, VADER, afinn
+ 
+Unit II Machine Leaning for Text Data 				
+Recommendation System for Movies- Euclidean distances, Manhattan distance, Cosine distances, Cosine similarity, Unsupervised Machine Learning for Grouping Similar Text- K-means and Hierarchical Clustering, Supervised Machine Learning for Classification Problems - Naïve Bayes and Support Vector Machines  
+ 
+Unit III Image Data Analytics
+Image Acquisition and Representation, Image Resizing and Rescaling, Image Rotation, Image Intensity, Image Cropping, Edge Extraction using Sobel Filter, Edge Extraction using Prewitt Filter
+
+Unit IV Machine Learning for Image Data
+Recommendation system for Images - Euclidean distances, Manhattan distance, Cosine distances, Cosine similarity, Unsupervised Machine Learning for Grouping Similar Images- K-means and Hierarchical Clustering, Supervised Machine Learning for Classification Problems - Naïve Bayes and Support Vector Machines, Object detection  
